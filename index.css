@@ -871,6 +871,9 @@ footer span a:hover {
   .home .home-content .text-2 {
     font-size: 36px;
   }
+   section .title {
+    padding-bottom: 50px;
+  }
   .about{
     margin-top: 720px;
   }
